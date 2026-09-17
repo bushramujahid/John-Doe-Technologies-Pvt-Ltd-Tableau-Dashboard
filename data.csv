@@ -1,0 +1,36 @@
+City,State,Region,Revenue,Orders
+Delhi,Delhi,North,1250000,320
+Noida,Uttar Pradesh,North,850000,220
+Gurgaon,Haryana,North,920000,240
+Lucknow,Uttar Pradesh,North,480000,120
+Jaipur,Rajasthan,North,540000,140
+Chandigarh,Chandigarh,North,350000,95
+Dehradun,Uttarakhand,North,290000,80
+Amritsar,Punjab,North,310000,85
+Mumbai,Maharashtra,West,1800000,450
+Pune,Maharashtra,West,870000,220
+Nagpur,Maharashtra,West,420000,110
+Ahmedabad,Gujarat,West,720000,180
+Surat,Gujarat,West,610000,160
+Vadodara,Gujarat,West,390000,100
+Rajkot,Gujarat,West,280000,75
+Bangalore,Karnataka,South,1600000,410
+Chennai,Tamil Nadu,South,980000,250
+Hyderabad,Telangana,South,1100000,290
+Kochi,Kerala,South,390000,100
+Coimbatore,Tamil Nadu,South,350000,95
+Mysore,Karnataka,South,270000,70
+Visakhapatnam,Andhra Pradesh,South,440000,115
+Vijayawada,Andhra Pradesh,South,310000,85
+Kolkata,West Bengal,East,950000,240
+Patna,Bihar,East,300000,80
+Ranchi,Jharkhand,East,260000,70
+Bhubaneswar,Odisha,East,340000,90
+Guwahati,Assam,East,280000,75
+Siliguri,West Bengal,East,180000,50
+Dhanbad,Jharkhand,East,190000,55
+Indore,Madhya Pradesh,Central,520000,135
+Bhopal,Madhya Pradesh,Central,410000,105
+Raipur,Chhattisgarh,Central,290000,80
+Jabalpur,Madhya Pradesh,Central,210000,60
+Gwalior,Madhya Pradesh,Central,180000,50
